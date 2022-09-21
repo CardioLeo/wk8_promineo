@@ -1,0 +1,14 @@
+# Author: William Z Chadwick
+# Date Created: 09/20/2022
+# Date Modified: 09/20/2022
+# Description: A place for my notes in prep for Promineo Tech Week 8 Research
+
+---
+
+Prompts:
+
+What is CSS clearfix, how is it used, and why is it helpful?
+
+What are SaSS and LESS?
+
+What is your favorite thing you learned this week?
