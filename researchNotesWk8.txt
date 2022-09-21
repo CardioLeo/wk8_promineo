@@ -12,3 +12,9 @@ What is CSS clearfix, how is it used, and why is it helpful?
 What are SaSS and LESS?
 
 What is your favorite thing you learned this week?
+
+---
+
+Great resource here: https://www.w3schools.com/css/css3_images.asp
+
+
