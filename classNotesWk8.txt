@@ -1,0 +1,8 @@
+# Author: William Z Chadwick
+# Date Created: 09/20/2022
+# Date Modified: 09/20/2022
+# Description: A place for my in class notes for Promineo Tech Week 8
+
+---
+
+
