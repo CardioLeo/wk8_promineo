@@ -5,6 +5,9 @@
 
 ---
 
+-create main documents /
+-make regular commits /
+
 -Wk8 Coding Assignment
 
 -videos
@@ -17,4 +20,15 @@
 
 -quiz
 
--mentor
+-mentor scheduled
+
+---
+
+-finish week 6 project
+-finish week 7 assignments
+-revisit week 5 project...
+-finish SoloLearn React course
+-finish Grasshopper Intro to Interviewing course
+-finish Udemy React course
+-take Udemy CSS course
+-finish Udemy bash course
