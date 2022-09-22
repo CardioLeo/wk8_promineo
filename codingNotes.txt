@@ -5,4 +5,29 @@
 
 ---
 
+Things Needed:
+-Github repo link
+-Coding assignment video (linkable)
+-vscode, accomplish objectives below
+-new repo
+-urls
+-submit document updated as pdf in LMS
 
+Coding Steps:
+-style website from last week using CSS
+--following requirements
+---use only external CSS file (no internal or inline styling)
+---every element must be styled (wow...)
+---create style rules using class, id, and element selectors
+
+Video Steps:
+-Creat video, 5 minutes max; show and explain how project works with emphasis on portions you contributed.
+-This video should be done using screenshare and voiceover
+-easily done using Zoom
+--create a new meeting
+--start screenshare
+--start recording
+--creates a video recording on your computer
+-upload to publicly accessible site, such as YouTube;
+--ensure the link is [public or unlisted!!]
+--if it is not accessible by your grader, your project will be graded based on what they can access
