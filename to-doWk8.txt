@@ -9,19 +9,19 @@
 -make regular commits /
 
 -work on wk 7 career assignmnt(Wednesday) /
--class attendance
+-class attendance /
+-class notes /
+-class participation /
+
+-videos
+-linkedin posts
+-schedule mentor visit
 
 -Wk8 Coding Assignment
 
--videos
-
 -research
 
--linkedin posts
-
 -quiz
-
--mentor scheduled
 
 ---
 
