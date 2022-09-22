@@ -25,3 +25,99 @@ gives you specificity values, 1---through---x
 --- hardcoding CSS and HTML right now
 
 later on, we can use JavaScript to change the content and styling dynaically with JavaScript.
+
+---
+
+I asked a question about how dynamic JavaScript use on a Webpage is different from a backend language / server changing the webpage.
+
+architecture of a webpage can be very different in big picture; front-end JS vs backend stuff.
+
+we will discuss this some later in the course, but largely this is outside the scope of this course.
+
+---
+
+html, block elements means block element takes full space available to it unless we give it a length and height, etc. very helpful here...
+
+[hyperlinks are in-line elements, by contrast, since they don't take up maximum space, width, etc.]
+
+and we can use different ids for differnet divs or <p> elements and so that would mean that you could, say, stagger your divs
+
+
+using CSS block element space changing stuff, you could do something like this:
+
+like the dashes below:
+
+
+--
+----
+--
+----
+
+could be cool.
+
+---
+
+floats in CSS, aligning text around an image;
+
+floating right, floating left, top, etc.
+
+we don't really use floats, although you should know about it.
+
+---
+
+**********
+
+typography
+
+text, properties and fonts;
+font-size, font-weight, color, line-height, text-align, font-family, letter-spacing
+
+"We can also bring in fonts that are not native to a browser through <link> tags in our HTML. Here's an example of what that looks like"
+
+<head>
+<link
+	href="https://fonts.googleapis.com/css?family=Liu+Jian+Mao+Cao&display=swap"
+	rel="stylesheet"
+/>
+</head>
+
+this is helpful. the browser doesn't support it? well, linking to it, say in Google Fonts, helps the webpage to download the right font and use it in the correct space.
+
+questions about whether you can use just any font whatsoever [I answered it decently]
+
+you can have backup fonts, extra links so that if a font doesn't work another one will kick in. pretty cool.
+
+---
+
+units
+[units in CSS]
+
+mockups
+[figma? free and paid online, adobe just bought it for $20b]
+[adobe going to cloud to upset the ability to crack into the codes for installing adobe. I didn't know that.]
+
+responsive designs
+[also, mobile design; applying CSS to design stuff... so not using two separate code bases, one for mobile and one for desktop. But now you can use Media Queries in CSS to use one CSS file ]
+
+mobile first --> tablet --> desktop
+
+"a mobile first approach"
+
+build the CSS for the mobile first
+
+[media queries + id values]
+
+"real estate"
+"visual real estate";
+"viewport width";
+first think about the design for the mobile; then think of the others;
+
+Sarah Schmid comments, "tvs and apple watches add even more devices to think about sometimes :("
+
+good point^
+
+
+
+---
+side-note:
+"cloud structure, cloud engineering, is where the money is" - according to Instructor Frank Stepanski
