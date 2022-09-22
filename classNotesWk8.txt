@@ -5,4 +5,23 @@
 
 ---
 
+started taking notes later today than usual
 
+research on different kinds of selectors - universal selectors, id selectors, child and parent selectors; element selectors;
+
+point systems:
+inline styling
+id selectors
+class selectors
+element selectors
+"!important - can be used to override all other denoted styles, you should avoid using !important at all costs, as it can make debugging CSS considerably more difficult. It is better to sort out where styling is coming from rather than resort to !important when dealing with undesirable effects."
+
+^^ makes a lot of sense.
+
+you can use a "specificity calculator" ***
+
+gives you specificity values, 1---through---x
+
+--- hardcoding CSS and HTML right now
+
+later on, we can use JavaScript to change the content and styling dynaically with JavaScript.
