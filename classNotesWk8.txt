@@ -212,3 +212,29 @@ h1 {
 main {
 	text-align: center;
 }
+
+---
+
+ul {
+	list-style-type: none; /* removes bullets -- very cool */
+	display: flex; /* every line item becomes a flex box item; pretty cool */
+	padding: 0;
+	margin: 0;
+}
+
+table {
+	margin: auto; /* centering */
+
+}
+
+# margin can be used to summarize instead of margin left, margin right, top and bottom, etc.
+
+tr:nth-child(even) { /* makes the background color alternate */
+	background-color: ;
+}
+
+^^^^ also pretty cool
+
+---
+
+end of class notes;
