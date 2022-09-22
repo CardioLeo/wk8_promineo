@@ -8,6 +8,9 @@
 -create main documents /
 -make regular commits /
 
+-work on wk 7 career assignmnt(Wednesday) /
+-class attendance
+
 -Wk8 Coding Assignment
 
 -videos
@@ -16,8 +19,6 @@
 
 -linkedin posts
 
--class attendance
-
 -quiz
 
 -mentor scheduled
@@ -25,9 +26,9 @@
 ---
 
 week 7 career services
--read questions
--research star method
--take notes on star method
+-read questions /
+-research star method /
+-take notes on star method /
 -find company with role you are looking for
 -start asking the 9 questions regarding your chosen company
 -make many notes, input into doc for upload
