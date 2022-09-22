@@ -116,8 +116,99 @@ Sarah Schmid comments, "tvs and apple watches add even more devices to think abo
 
 good point^
 
+---
 
+media queries
+
+@media (max width=px;) {
+	[css styling]
+}
+
+phones are getting smaller. they're trying to get us used to this stuff that will be less obtrusive but more "effective" and "powerful" and move us towards more augmented reality stuff. this will give more power to tech designers, etc. --- there's a lot of stuff that needs to be asked and pondered here. "There is so much to say, but not enough time to say it all."
 
 ---
 side-note:
 "cloud structure, cloud engineering, is where the money is" - according to Instructor Frank Stepanski
+
+---
+
+CSS Grid doesn't replace FlexBox, but it works in conjunction with FlexBox.
+
+CSS gif with guy ["family guy?"]trying to open the blinds, haha
+
+things to try to learn?
+-
+-
+-Pseudo Classes
+-HTML Box Model
+
+[Vicente Isaguirre says, "freecodecamp has a great project on flexbox" ... "and its cats"]
+
+CSS CheatSheet --> DevHints site
+also, Scrimba is good.
+
+---
+
+examples, structure, <header>, <nav>
+
+[Sarah Schmid asks,
+"What would be the reason for having more than one css file as the stylesheet?"
+Answer from Frank Stepanski:
+-if they get really complicated, you may want one CSS file per page;
+-also, you may want a different one for both mobile and desktop;
+-different team-members may decide to use different css files;]
+
+<header> semantic tag
+
+<main> also semantic tag
+
+<h1>Breads Please!</h1> (but output is capitalized)
+
+css structrue:
+
+top of page: @import url('https://fonts.googleapis.com/css2family=Roboto:wght@1096&display=swap');
+
+html { /* root size */
+	font-family: "Roboto", sans-serif;
+	font-size: 17px; /* root size */
+}
+
+header {
+	background-color: #f2f2f2;
+	height: 150px;
+	display: flex;
+	justify-content: center; /* centers horizontally */
+	align-items: center;
+}
+
+# used to be really hard to center something vertically and horizontall
+, especially horizontally
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+	/* you could do font-size: 50px; and this would make it massively enlarge when you hover over it, kinda cool */
+}
+
+# wow, that's pretty cool about changing the decoration; also about the font size thing. You could change it lots of ways theoretically. Why has CSS seemed so hard to me in the past? So opaque....
+
+---
+
+"child elements" versus "descendant elements"
+
+---
+
+nav a {
+	margin-right: 1rem; /* 1rem == 17px */
+}
+
+h1 {
+	text-transform: uppercase;
+}
+
+main {
+	text-align: center;
+}
