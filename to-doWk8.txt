@@ -29,7 +29,8 @@ week 7 career services
 -read questions /
 -research star method /
 -take notes on star method /
--find company with role you are looking for
+-find company with role you are looking for --some /
+[-update resume ()]
 -start asking the 9 questions regarding your chosen company
 -make many notes, input into doc for upload
 -make pdf
