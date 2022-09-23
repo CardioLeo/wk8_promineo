@@ -32,6 +32,7 @@ week 7 career services
 -find company with role you are looking for --some /
 [-update resume ()]
 -start asking the 9 questions regarding your chosen company
+[-literally just pick one job and go for it]
 -make many notes, input into doc for upload
 -make pdf
 -upload pdf
