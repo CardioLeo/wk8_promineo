@@ -1,27 +1,40 @@
 # Author: William Z Chadwick
 # Date Created: 09/20/2022
-# Date Modified: 09/20/2022
+# Date Modified: 09/24/2022
 # Description: A place for my to-do list for Week 8 of Promineo Tech Front End Bootcamp
 
 ---
 
 -create main documents /
 -make regular commits /
-
 -work on wk 7 career assignmnt(Wednesday) /
 -class attendance /
 -class notes /
 -class participation /
+-linkedin posts /
+-schedule mentor visit // message Nick /
 
--videos
--linkedin posts
--schedule mentor visit
 
--Wk8 Coding Assignment
+-videos (finish last one?) ()
+-Wk8 Coding Assignment ()
+-research ()
+-quiz ()
 
--research
+---
 
--quiz
+-finish week 7 career services
+-update resume / make new ()
+-finish week 6 project
+-finish How to Program course
+-revisit week 5 project...
+-finish SoloLearn React course
+-finish SoloLearn CSS course
+-finish Grasshopper Intro to Interviewing course
+-finish Udemy React course
+-take Udemy CSS course
+-finish Udemy bash course
+-Enki Linux course
+-finish reading react handbook
 
 ---
 
@@ -30,36 +43,18 @@ week 7 career services
 -research star method /
 -take notes on star method /
 -find company with role you are looking for --some /
-[-update resume ()]
--start asking the 9 questions regarding your chosen company
-[-literally just pick one job and go for it]
--make many notes, input into doc for upload
+-start asking the 9 questions regarding your chosen company /
+[-literally just pick one job and go for it] /
+-make many notes, input into doc for upload /
 -make pdf
 -upload pdf
 
 week 7 coding assignment
--make sure you did upload it?
+-make sure you did upload it? /
 
 ---
 
--finish week 6 project
--finish week 7 assignments
--revisit week 5 project...
--finish SoloLearn React course
--finish Grasshopper Intro to Interviewing course
--finish Udemy React course
--take Udemy CSS course
--finish Udemy bash course
--finish reading react handbook
-
-
-To finish from previous weeks:
-
-touch up program from week 5--
-finish program from week 6--
 -went to video walkthrough from Macias /
 -worked on it /
 -worked on it 09/13/2022 /
 -worked on it more 09/14/2022 /
--
-
