@@ -1,6 +1,6 @@
 # Author: William Z Chadwick
 # Date Created: 09/20/2022
-# Date Modified: 09/24/2022
+# Date Modified: 09/28/2022
 # Description: A place for my to-do list for Week 8 of Promineo Tech Front End Bootcamp
 
 ---
@@ -46,8 +46,8 @@ week 7 career services
 -start asking the 9 questions regarding your chosen company /
 [-literally just pick one job and go for it] /
 -make many notes, input into doc for upload /
--make pdf
--upload pdf
+-make pdf /
+-upload pdf /
 
 week 7 coding assignment
 -make sure you did upload it? /
