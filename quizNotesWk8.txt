@@ -1,0 +1,7 @@
+# Author: William Z Chadwick
+# Date Created: 09/30/2022
+# Date Modified: 09/30/2022
+# Description: A place for notes for my Week 8 CSS quiz, because I already almost completed it once after researching the answers to make sure I got them right and then lost what I wrote. So now the answers will be retrievalbe here.
+
+---
+
