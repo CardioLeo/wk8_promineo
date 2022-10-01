@@ -20,4 +20,36 @@ Every third row in any table should have a gray background."
 Quiz Notes:
 
 
+/*
+* 1 --/
+* 2 --
+* 3 --
+* 4 --
+* 5 --
+*/
+
+:root {
+background: blue;
+}
+
+#text-2 {
+font-color: red;
+}
+
+div.box {
+margins: 25%;
+border-color: black;
+border-style: solid;
+border-width: 1px;
+[curved corners? how do you do that again?]
+}
+
+li {
+background::hover: white;
+}
+
+tr {
+["Every third row in any table should have a gray background."]
+}
+
 
