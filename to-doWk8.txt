@@ -16,13 +16,13 @@
 
 
 -videos (finish last one?) (//)
--Wk8 Coding Assignment ()
--research ()
--quiz ()
+-Wk8 Coding Assignment (moved to Week 10 to-do list)
+-research (moved to Week 10 to-do list)
+-quiz (moved to Week 10 to-do list)
 
 ---
 
--finish week 7 career services
+-finish week 7 career services /
 -make new resume (/)
 -make a nice design resume (/) finish design resume ()
 -finish week 6 project
