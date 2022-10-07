@@ -9,11 +9,20 @@ Quiz Prompt:
 
 
 "Write external CSS to style HTML as directed below.
-Make the entire background blue.
-An id of "text-2" should have red font color.
-Any div with a class of "box" should have 25% margins on all sides, a black, solid 1px border, with curved corners. (NOTE: make sure only div's with the class are targeted)
-All list items (li) should have a white background when they are hovered over.
-Every third row in any table should have a gray background."
+
+/1. Make the entire background blue.
+
+
+2. An id of "text-2" should have red font color.
+
+
+3. Any div with a class of "box" should have 25% margins on all sides, a black, solid 1px border, with curved corners. (NOTE: make sure only div's with the class are targeted)
+
+
+/4. All list items (li) should have a white background when they are hovered over.
+
+
+5. Every third row in any table should have a gray background."
 
 ---
 
@@ -24,7 +33,7 @@ Quiz Notes:
 * 1 --/
 * 2 --
 * 3 --
-* 4 --
+* 4 --/
 * 5 --
 */
 
@@ -44,8 +53,8 @@ border-width: 1px;
 [curved corners? how do you do that again?]
 }
 
-li {
-background::hover: white;
+li:hover {
+background-color: white;
 }
 
 tr {
