@@ -17,4 +17,36 @@ What is your favorite thing you learned this week?
 
 Great resource here: https://www.w3schools.com/css/css3_images.asp
 
+---
+
+1. clearfix, how it is used, why helpful...
+
+
+Sources:
+https://gist.github.com/jensgro/4557625
+https://www.positioniseverything.net/clear-float/
+https://www.cssmojo.com/clearfix-reloaded-overflowhidden-demystified/
+
+
+---
+
+3. interesting things I've found:
+
+quirk mode.
+
+---
+
+list of resource sites:
+
+stackoverflow
+w3schools
+udemy
+harvard cs50
+the odin project
+youtube
+linkedin learning
+linux foundation
+redhat enterprises
+oracle
+treehouse
 
