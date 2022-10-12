@@ -40,11 +40,14 @@ background: blue;
 color: red;
 }
 
-div.box {
+.box {
 margin: 25%;
-border: 1px;
+border: 1px solid;
 border-color: black;
-border-radius: 45px;
+border-radius: 68px;
+padding: 35px;
+width: 45%;
+height: 20%;
 }
 
 li:hover {
