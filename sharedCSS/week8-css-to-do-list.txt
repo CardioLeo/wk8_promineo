@@ -17,7 +17,8 @@ From coding assignment document:
 
 Subtasks:
 use only external CSS file ( // already done)
----make list of every element
+---make list of every html element from wzcOnline //
+---make list of HTML elements NOT already successfully meeting the criteria for the coding assignment
 ---start looking up creative ways to style the different elements
 ---look up creative style rules for class, id, & element
 
@@ -93,3 +94,9 @@ button
 tutorRef page elements: 
 
 [add in and clarify the different things; especially add in promineo tech instructor comment]
+
+---
+
+List of HTML elements NOT already successfully meeting the criteria for the coding assignment:
+
+ 
