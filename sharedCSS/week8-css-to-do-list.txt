@@ -23,6 +23,34 @@ use only external CSS file ( // already done)
 
 ---track this from the original week 8 folder or copy it at the end
 
+---
+
 list of elements [wzcOnline CSS Periodic Table]:
 
+---
 
+Index page:
+
+header
+h2
+nav
+li
+a
+br
+h1
+p
+ul
+
+---
+
+html_files/::
+
+aboutMe.html
+codePortfolio.html
+langExp.html
+readingList.html
+tutorRef.html
+
+---
+
+aboutMe page elements:
