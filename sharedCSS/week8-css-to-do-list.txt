@@ -126,22 +126,22 @@ button (  )
 
 ---
 
-List of HTML elements NOT already successfully meeting the criteria for the coding assignment:
+List of HTML elements NOT already successfully meeting the criteria for the coding assignment (in progress; this is changing)
 
-:root (  )
+:root ( //  )
 header (  )
-nav (  )
+nav ( //  )
 br (  )
 details (  )
 summary (  )
 meter (  )
 em (  )
-table (  )
-tr (  )
-th (  )
-td (  )
-form (  )
+table ( //  )
+tr ( //  )
+th ( // )
+td ( // )
+form ( //  )
 label (  )
-input (  )
+input ( //  )
 button (  )
  
