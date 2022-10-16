@@ -97,6 +97,33 @@ tutorRef page elements:
 
 ---
 
+total list of html elements; [al = already CSSed; al2 = CSSed during research; al3 = CSSed at the end]:
+
+header (  )
+h2 ( al  )
+nav (  )
+li ( al  )
+a ( al  )
+br (  )
+h1 ( al  )
+p ( al  )
+ul ( al  )
+img ( al )
+ol ( al  )
+h4 ( al  )
+details (  )
+summary (  )
+meter (  )
+em (  )
+table (  )
+tr (  )
+th (  )
+td (  )
+form (  )
+label (  )
+input (  )
+button (  )
+
 List of HTML elements NOT already successfully meeting the criteria for the coding assignment:
 
  
