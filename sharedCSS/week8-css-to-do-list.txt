@@ -22,7 +22,7 @@ use only external CSS file ( // already done)
 ---start looking up creative ways to style the different elements
 ---look up creative style rules for class, id, & element
 
----track this from the original week 8 folder or copy it at the end
+---track this from the original week 8 folder or copy it at the end ( // )
 
 ---
 
