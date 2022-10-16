@@ -5,10 +5,6 @@
 
 ---
 
-test lines
-
----
-
 From coding assignment document:
 
 "Coding Steps:
