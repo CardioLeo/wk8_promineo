@@ -54,3 +54,42 @@ tutorRef.html
 ---
 
 aboutMe page elements:
+
+img
+
+---
+
+codePortfolio page elements:
+
+ol
+h4
+details
+summary
+meter
+em
+
+---
+
+langExp page elements:
+
+[copy format from code portfolio for some of the course-like elements here]
+no other new elements
+
+---
+
+readingList page elements:
+
+table
+tr
+th
+td
+form
+label
+input
+button
+
+---
+
+tutorRef page elements: 
+
+[add in and clarify the different things; especially add in promineo tech instructor comment]
