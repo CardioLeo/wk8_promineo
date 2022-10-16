@@ -124,6 +124,24 @@ label (  )
 input (  )
 button (  )
 
+---
+
 List of HTML elements NOT already successfully meeting the criteria for the coding assignment:
 
+:root (  )
+header (  )
+nav (  )
+br (  )
+details (  )
+summary (  )
+meter (  )
+em (  )
+table (  )
+tr (  )
+th (  )
+td (  )
+form (  )
+label (  )
+input (  )
+button (  )
  
