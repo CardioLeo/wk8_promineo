@@ -1,0 +1,28 @@
+# Author: William Z Chadwick
+# Date Created: 10/01/2022
+# Date Modified: 10/15/2022
+# Description: A place for me to keep up with minutiae of tasks regarding week 8 CSS coding project; but not concerned with non-CSS code tasks like making a video.
+
+---
+
+From coding assignment document:
+
+"Coding Steps:
+    • Style the website you made last week using CSS with the following requirements:
+        ◦ Use only external CSS file (no internal or inline styling)
+        ◦ Every element must be styled.
+        ◦ Create style rules using class, id, and element selectors."
+
+---
+
+Subtasks:
+use only external CSS file ( // already done)
+---make list of every element
+---start looking up creative ways to style the different elements
+---look up creative style rules for class, id, & element
+
+---track this from the original week 8 folder or copy it at the end
+
+list of elements [wzcOnline CSS Periodic Table]:
+
+
