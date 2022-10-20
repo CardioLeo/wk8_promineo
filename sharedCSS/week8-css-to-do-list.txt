@@ -18,9 +18,9 @@ From coding assignment document:
 Subtasks:
 use only external CSS file ( // already done)
 ---make list of every html element from wzcOnline //
----make list of HTML elements NOT already successfully meeting the criteria for the coding assignment
----start looking up creative ways to style the different elements
----look up creative style rules for class, id, & element
+---make list of HTML elements NOT already successfully meeting the criteria for the coding assignment //
+---start looking up creative ways to style the different elements //
+---look up creative style rules for class, id, & element //
 
 ---track this from the original week 8 folder or copy it at the end ( // )
 
@@ -129,19 +129,18 @@ button (  )
 List of HTML elements NOT already successfully meeting the criteria for the coding assignment (in progress; this is changing)
 
 :root ( //  )
-header (  )
+header ( // )
 nav ( //  )
-br (  )
-details (  )
-summary (  )
-meter (  )
-em (  )
+br ( not styled?  )
+details ( //  )
+summary ( // )
+meter ( changed to progress in codePortfolio // // )
 table ( //  )
 tr ( //  )
 th ( // )
 td ( // )
 form ( //  )
-label (  )
+label ( // )
 input ( //  )
-button (  )
+button ( // )
  
