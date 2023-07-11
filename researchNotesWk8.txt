@@ -1,6 +1,6 @@
 # Author: William Z Chadwick
 # Date Created: 09/20/2022
-# Date Modified: 09/20/2022
+# Date Modified: 06/10/2023
 # Description: A place for my notes in prep for Promineo Tech Week 8 Research
 
 ---
@@ -9,11 +9,20 @@ Prompts:
 
 What is CSS clearfix, how is it used, and why is it helpful?
 
+CSS clearfix is related to the float property. The float property moves an element to the left or right of another element (or within that other element). CSS Clearfix clears the float property of children elements.
+
+The following website ( https://developer.mozilla.org/en-US/docs/Web/CSS/float ) has a cool demo for how floating works. Likewise, it lists the various values which the float property can hold: left, right, none, inline-start, inline-end (those are keyword values), and inherit, initial, revert, revert-layer, and unset (those are global values).
+
+With clearfix, you might use it to push certain elements such that you "force headings to be on their own line," as the Mozilla Developer website says.
+
 What are SaSS and LESS?
 
-What is your favorite thing you learned this week?
+SASS stands for "Syntactically Awesome Stylesheet," and most of it reads like regular CSS, but you can use variables with it and double-slash comments (a nice addition). SASS must be pre-processed with a specific SASS pre-processor, which seems like a downside of SASS compared with Javascript's Less (which I take it is rather like a library instead of something requiring it's own pre-processor).
 
----
+Less is a form of CSS which is implemented by Javascript, also allowing for use of variables, functions, "mixins," nesting, arithmetic operations and other new facilities which are normal parts of most coding languages but traditionally missing from CSS and HTML.
+
+[sources: https://www.w3schools.com/sass/sass_intro.php and https://lesscss.org/ ]
+
 
 Great resource here: https://www.w3schools.com/css/css3_images.asp
 
@@ -21,6 +30,42 @@ Great resource here: https://www.w3schools.com/css/css3_images.asp
 
 1. clearfix, how it is used, why helpful...
 
+I found this source helpful:
+
+A clearfix is a way for an element to automatically clear its child elements, so that you don't need to add additional markup. It's generally used in float layouts where elements are floated to be stacked horizontally.
+
+The clearfix is a way to combat the zero-height container problem for floated elements
+
+A clearfix is performed as follows:
+
+.clearfix::after {
+   content: " "; /* Older browser do not support empty content */
+   visibility: hidden;
+   display: block;
+   height: 0;
+   clear: both;
+}
+
+Or, if you don't require IE<8 support, the following is fine too:
+
+.clearfix::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+Normally you would need to do something as follows:
+
+<div>
+    <div style="float: left;">Sidebar</div>
+    <div style="clear: both;"></div> <!-- Clear the float -->
+</div>
+With clearfix, you only need the following:
+
+<div class="clearfix">
+    <div style="float: left;" class="clearfix">Sidebar</div>
+    <!-- No Clearing div! -->
+</div>
 
 Sources:
 https://gist.github.com/jensgro/4557625
